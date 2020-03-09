@@ -1,0 +1,125 @@
+<!DOCTYPE HTML>
+<!--
+	Aerial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+	<title>Tomorrowland Winter OFF</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="stylesheet" href="assets/css/tmloff.css">
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body class="is-preload">
+	<div id="wrapper">
+		<div id="bg"></div>
+		<div id="overlay"></div>
+		<div id="main">
+            
+			<!-- Header -->
+			<header id="header" class="tmloff_scroll">
+				<h1>Tomorrowland Winter OFF</h1>
+				<p>We organise OFF events for Tomorrowland Winter 2020.</p>
+				<p>Stay tuned to our social networks for updates about the events organized.</p>
+				<p>Live Today, Love Tomorrow, Unite Forever ♥</p>
+				<nav>
+					<ul>
+						<li><a href="https://www.instagram.com/tomorrowlandwinteroff/" class="icon brands fa-instagram" target="_blank"><span class="label">Twitter</span></a></li>
+						<li><a href="https://twitter.com/OffTomorrowland" class="icon brands fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+						<li><a href="https://facebook.com/events/204337203980968/" class="icon brands fa-facebook-f" target="_blank"><span class="label">Facebook</span></a></li>
+                    </ul>
+                </nav>
+                <div>
+                    <div id="tmloff_artists">
+                        <h1>Artists</h1>                                                                                                    
+                    </div>
+                    <div style="float: left; width: 100%; min-height: 10em; margin-top: 1em;">
+                        <ul id="tmloff_apply">
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="map.html">Map</a></li>
+                        </ul>
+                    </div>
+                </div>
+			</header>
+			
+		</div>
+	</div>
+	<script>
+		window.onload = function() { document.body.classList.remove('is-preload'); }
+		window.ontouchmove = function() { return false; }
+		window.onorientationchange = function() { document.body.scrollTop = 0; }
+    </script>
+    <script>
+        $( document ).ready(function() {
+            $.getJSON( "assets/artists/artists.json", function( data ) {
+                var artists = [];
+
+                $.each( data, function( key, artist ) {
+
+                    var links = '';
+                    var urls = []
+
+                    if (artist.link) {
+                        urls.push(artist.link);
+                    }
+
+                    if (artist.links) {
+                       artist.links.split("\n").forEach(url => {
+                            urls.push(url);
+                        });
+                    }
+
+                    if (urls.length != 0) {
+                        urls.forEach(link => {
+                            var link_type = 'fas fa-external-link-alt';
+                            if (link.indexOf('soundcloud.com') >= 0) { link_type = 'fab fa-soundcloud'; }
+                            if (link.indexOf('twitter.com') >= 0) { link_type = 'fab fa-twitter'; }
+                            if (link.indexOf('facebook.com') >= 0) { link_type = 'fab fa-facebook'; }
+                            if (link.indexOf('instagram.com') >= 0) { link_type = 'fab fa-instagram'; }
+                            if (link.indexOf('youtube.com') >= 0) { link_type = 'fab fa-youtube'; }
+                            if (link.indexOf('spotify.com') >= 0) { link_type = 'fab fa-spotify'; }
+                            if (link.indexOf('mixcloud.com') >= 0) { link_type = 'fab fa-mixcloud'; }
+                            
+                            links = links + '<a href="' + link + '" target="_blank"><i class="' + link_type + '"></i></a> ';
+                        });
+                    } else {
+                        console.log("toto");
+                        links = '...';
+                    }                
+                    artists.push( "<ul> \
+                        <li><img class=\"tmloff_artists_photo\" src=\"assets/artists/default.jpg\"></li> \
+                        <li class=\"tmloff_artists_name\">" + artist.name + "</li> \
+                        <li><small>" + artist.style + "</small></li> \
+                        <li>" + links + "</li> \
+                    </ul>" );
+                });
+
+                $(artists.join( "" )).appendTo( "#tmloff_artists" );
+
+                // $('#tmloff_artists>ul').each(function( index ) {
+                //     var url = 'assets/artists/' + $(this).find('.tmloff_artists_name').text().replace(/[^a-zA-Z]/g, "").toLowerCase() + '.jpg';
+                    
+                //     var that = this;
+                //     $.ajax({
+                //         url: url,
+                //         type:'HEAD',
+                //         error: function()
+                //         {
+                //             console.log('Photo not found : ' + url)
+                //         },
+                //         success: function()
+                //         {
+                //             $(that).find('.tmloff_artists_photo').attr('src',url);
+                //         }
+                //     });
+                // })
+
+            });
+        });
+    </script>
+</body>
+</html>

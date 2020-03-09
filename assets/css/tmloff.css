@@ -32,3 +32,51 @@
     background-color: rgba(255,255,255,0.175);
     border: 1px solid white;
 }
+
+
+
+
+
+.tmloff_scroll {
+    overflow: scroll;
+    top: 0em !important;
+    height: 100%;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.tmloff_scroll::-webkit-scrollbar {
+    display: none;
+}
+
+
+#tmloff_map>iframe {
+    margin-top: 1em;
+}
+
+
+
+#tmloff_artists>ul {
+    border-radius: 1em;
+    border: 1px solid white;
+    width: 30%;
+    min-height: 175px;
+    float: left;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+#tmloff_artists>ul>li>a {
+    border-bottom: none;
+    }
+
+.tmloff_artists_photo {
+    margin-top: 3%;
+    width: 60%;
+    border-radius: 1em;
+}
+
+.tmloff_artists_name {
+    text-transform: uppercase;
+    font-weight: bold;
+}
