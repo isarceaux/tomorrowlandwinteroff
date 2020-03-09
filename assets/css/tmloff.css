@@ -39,6 +39,7 @@
 
 .tmloff_scroll {
     overflow: scroll;
+    width: 99% !important;
     top: 0em !important;
     height: 100%;
     scrollbar-width: none;
@@ -59,8 +60,8 @@
 #tmloff_artists>ul {
     border-radius: 1em;
     border: 1px solid white;
-    width: 30%;
-    min-height: 175px;
+    width: 29%;
+    min-height: 105px;
     float: left;
     margin-left: 3%;
     margin-top: 3%;
