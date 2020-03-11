@@ -1,74 +1,245 @@
 [
   {
-    "date": "sunday_15",
-    "datetime": "14h-17h",
-    "venue": "Chantebrise",
+    "date": "saturday_14",
+    "datetime": "TBD",
+    "venue": "TBD",
     "venue_link": "#",
-    "style": "Tech house - EDM",
-    "artists": "DJ Licious",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "saturday_14",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "saturday_14",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
     "artists_link": "#"
   },
   {
     "date": "sunday_15",
-    "datetime": "14h-17h",
-    "venue": "Sporting",
+    "datetime": "TBD",
+    "venue": "TBD",
     "venue_link": "#",
-    "style": "Minimal",
-    "artists": "Cilk",
+    "style": "TBD",
+    "artists": "TBD",
     "artists_link": "#"
   },
   {
     "date": "sunday_15",
-    "datetime": "14h-17h",
-    "venue": "Chantebrise",
+    "datetime": "TBD",
+    "venue": "TBD",
     "venue_link": "#",
-    "style": "Microhouse",
-    "artists": "Patrice Baumel",
+    "style": "TBD",
+    "artists": "TBD",
     "artists_link": "#"
   },
   {
     "date": "sunday_15",
-    "datetime": "14h-17h",
-    "venue": "Chantebrise",
+    "datetime": "TBD",
+    "venue": "TBD",
     "venue_link": "#",
-    "style": "Tech house - EDM",
-    "artists": "PaulK",
+    "style": "TBD",
+    "artists": "TBD",
     "artists_link": "#"
   },
   {
     "date": "monday_16",
-    "datetime": "14h-17h",
-    "venue": "Les caves",
+    "datetime": "TBD",
+    "venue": "TBD",
     "venue_link": "#",
-    "style": "Tech house - EDM",
-    "artists": "DJ Licious",
+    "style": "TBD",
+    "artists": "TBD",
     "artists_link": "#"
   },
   {
     "date": "monday_16",
-    "datetime": "14h-17h",
-    "venue": "Sporting",
+    "datetime": "TBD",
+    "venue": "TBD",
     "venue_link": "#",
-    "style": "Minimal",
-    "artists": "Cilk",
+    "style": "TBD",
+    "artists": "TBD",
     "artists_link": "#"
   },
   {
     "date": "monday_16",
-    "datetime": "14h-17h",
-    "venue": "Chantebrise",
+    "datetime": "TBD",
+    "venue": "TBD",
     "venue_link": "#",
-    "style": "Microhouse",
-    "artists": "Patrice Baumel",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "tuesday_17",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "tuesday_17",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "tuesday_17",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "wednesday_18",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "wednesday_18",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "wednesday_18",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "thursday_19",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "thursday_19",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "thursday_19",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
     "artists_link": "#"
   },
   {
     "date": "friday_20",
-    "datetime": "14h-17h",
-    "venue": "Les caves",
+    "datetime": "TBD",
+    "venue": "TBD",
     "venue_link": "#",
-    "style": "Tech house - EDM",
-    "artists": "PaulK",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "friday_20",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "friday_20",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "saturday_21",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "saturday_21",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "saturday_21",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "sunday_21",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "sunday_21",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
+    "artists_link": "#"
+  },
+  {
+    "date": "sunday_21",
+    "datetime": "TBD",
+    "venue": "TBD",
+    "venue_link": "#",
+    "style": "TBD",
+    "artists": "TBD",
     "artists_link": "#"
   }
 ]
