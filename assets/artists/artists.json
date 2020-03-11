@@ -21,6 +21,13 @@
     "styles": "EDM, House, Dub Step, Moombahton"
   },
   {
+    "name": "Afrojack",
+    "link": "https://www.youtube.com/channel/UCmKm7HJdOfkWLyml-fzKlVg",
+    "links": "https://www.facebook.com/djafrojack/",
+    "style": "EDM",
+    "styles": ""
+  },
+  {
     "name": "Aleks Cameron",
     "link": "https://www.keysmusicparis.com/alekscameron",
     "links": "https://www.instagram.com/alekscameron",
@@ -91,6 +98,13 @@
     "styles": "Trance, Psy Trance, Hardstyle, Hardcore, Techno, Minimal Techno, Dub Step, Drum and Bass"
   },
   {
+    "name": "Cilk",
+    "link": "https://soundcloud.com/djcilk",
+    "links": "",
+    "style": "Techno",
+    "styles": "Techno, Melodic Techno, Minimal Techno, House, Tech House"
+  },
+  {
     "name": "COMAH",
     "link": "https://www.facebook.com/ComahLive",
     "links": "https://soundcloud.com/comahlive\nhttps://www.instagram.com/comahlive/\nhttps://open.spotify.com/artist/2kS3I9R5ErMSxhhKGQ0Pj1\nhttps://twitter.com/comahlive\nhttps://www.youtube.com/comahlive",
@@ -119,6 +133,13 @@
     "styles": "EDM, House, Deep House, House 90/2000"
   },
   {
+    "name": "Dimitri Vegas & Like Mike",
+    "link": "https://www.youtube.com/channel/UCxmNWF8fQ4miqfGs84dFVrg",
+    "links": "https://www.facebook.com/dimitrivegasandlikemike/",
+    "style": "EDM",
+    "styles": ""
+  },
+  {
     "name": "DJ AL-X",
     "link": "https://soundcloud.com/dj_al-x",
     "links": "",
@@ -131,6 +152,13 @@
     "links": "",
     "style": "House",
     "styles": "House, Deep House, New Disco"
+  },
+  {
+    "name": "dj Brialmont",
+    "link": "https://www.facebook.com/Brialmont/",
+    "links": "",
+    "style": "House",
+    "styles": "House, Deep House, Future House, Funky house"
   },
   {
     "name": "DJ Dylan's",
@@ -168,6 +196,13 @@
     "styles": "EDM, Deep House"
   },
   {
+    "name": "dj jel",
+    "link": "https://www.facebook.com/jel.christien",
+    "links": "",
+    "style": "House",
+    "styles": "Afterski"
+  },
+  {
     "name": "DJ Koala",
     "link": "https://www.facebook.com/DjKoalaOfficial/",
     "links": "https://www.instagram.com/dj.koala_/",
@@ -189,6 +224,13 @@
     "styles": "EDM, Melodic Techno, House, Deep House, New Disco, Tech House"
   },
   {
+    "name": "DJ Polaar",
+    "link": "https://www.mixcloud.com/PolaarSounds/",
+    "links": "https://www.facebook.com/PolaarSounds/",
+    "style": "Minimal Techno",
+    "styles": ""
+  },
+  {
     "name": "Dj Rawad",
     "link": "https://soundcloud.com/rawad_trb",
     "links": "",
@@ -201,6 +243,20 @@
     "links": "",
     "style": "House",
     "styles": "House, Deep House"
+  },
+  {
+    "name": "DJ Sinnerman",
+    "link": "https://soundcloud.com/sinnermanmusic",
+    "links": "",
+    "style": "Deep House",
+    "styles": "House, Tech House, Future House"
+  },
+  {
+    "name": "DJ Snow",
+    "link": "https://www.facebook.com/thedjsnow/",
+    "links": "",
+    "style": "EDM",
+    "styles": ""
   },
   {
     "name": "dj tatana - tatana",
@@ -259,6 +315,13 @@
     "styles": "EDM, House, Deep House, Future House, New Disco, Latin House, Tech House"
   },
   {
+    "name": "Fraser Todd",
+    "link": "https://www.mixcloud.com/fraser-todd/fraser-todd-winter-vibes-19/",
+    "links": "https://www.mixcloud.com/fraser-todd/",
+    "style": "House",
+    "styles": "Techno, House, Deep House, New Disco"
+  },
+  {
     "name": "Gaba",
     "link": "http://soundcloud.com/gabamusic",
     "links": "https://www.facebook.com/GabaMusic",
@@ -280,9 +343,16 @@
     "styles": "EDM, Trance, Psy Trance, Hardstyle, Techno, Melodic Techno, Minimal Techno"
   },
   {
+    "name": "HYROZ",
+    "link": "https://instagram.com/hyrozmusic?igshid=1m9mtykonjqz9",
+    "links": "https://m.mixcloud.com/hyrozmusic/",
+    "style": "Hardstyle",
+    "styles": "Hardstyle, Techno"
+  },
+  {
     "name": "Janne Hendriksson",
     "link": "https://www.facebook.com/JanneHendrikkson",
-    "links": "",
+    "links": "https://www.instagram.com/jannehendriksson_official",
     "style": "EDM",
     "styles": "EDM"
   },
@@ -336,6 +406,13 @@
     "styles": "EDM, Dub Step, Downtempo / Ambient"
   },
   {
+    "name": "Lost Identity",
+    "link": "https://www.instagram.com/lost_identity_official/",
+    "links": "https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h",
+    "style": "Hardstyle",
+    "styles": "Hardstyle"
+  },
+  {
     "name": "Lucas Inside",
     "link": "https://distrokid.com/hyperfollow/lucasinside/feel-the-groove-feat-raplh-larenzo",
     "links": "",
@@ -357,6 +434,13 @@
     "styles": "Techno, Melodic Techno, House, Deep House, New Disco, Tech House"
   },
   {
+    "name": "Max G",
+    "link": "https://www.instagram.com/maxgdeejay/",
+    "links": "",
+    "style": "Tech House",
+    "styles": "EDM, Deep House, Future House, Tech House"
+  },
+  {
     "name": "Micka pandera",
     "link": "https://open.spotify.com/artist/6ptBPLZzFSoJlNI4DwlUI7",
     "links": "",
@@ -369,6 +453,20 @@
     "links": "",
     "style": "House",
     "styles": "Techno, Melodic Techno, Minimal Techno, House, Deep House, New Disco, Latin House, Tech House"
+  },
+  {
+    "name": "MOBAK",
+    "link": "https://fr-fr.facebook.com/pages/category/Musician-Band/DjMobak/posts/",
+    "links": "https://soundcloud.com/djmobak/",
+    "style": "Future House",
+    "styles": "EDM, Melodic Techno, House, Deep House, Future House, Tech House"
+  },
+  {
+    "name": "NJ DEEJAY",
+    "link": "http://www.instagram.com/njmusicoff",
+    "links": "http://www.youtube.com/njmusicoff",
+    "style": "Future House",
+    "styles": "EDM, Future House, Tech House"
   },
   {
     "name": "Norsheep",
@@ -427,11 +525,25 @@
     "styles": "Future House, Tech House, Dub Step, Bass house"
   },
   {
+    "name": "Stephane Dos Santos",
+    "link": "https://www.facebook.com/stephane.dos.santos.dj",
+    "links": "",
+    "style": "EDM",
+    "styles": ""
+  },
+  {
     "name": "Stocki M.",
     "link": "https://soundcloud.com/goulash-music/stocki-m-goulash-music-smsxxiii-camping-stage",
     "links": "https://www.instagram.com/mrtn.stckhs/",
     "style": "Future House",
     "styles": "Techno, House, Deep House, Future House, Tech House"
+  },
+  {
+    "name": "Stüpha",
+    "link": "https://soundcloud.com/stuphaa",
+    "links": "",
+    "style": "Melodic Techno",
+    "styles": "Techno, Melodic Techno, Deep House, Tech House, Progressive House"
   },
   {
     "name": "T.P.",
