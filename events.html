@@ -82,12 +82,10 @@
                 var events = [];
 
                 $.each( data, function( key, event ) {
-                    console.log(event);
-
+                    
                     if (!events[event.date]) {
                         events[event.date] = [];
                     }
-                    console.log("#tmloff_events_" + event.date);
                     
                   //  $("toto".toString()).appendTo("#tmloff_events_" + event.date);
                   $( "#tmloff_events_" + event.date ).append( "<ul> \

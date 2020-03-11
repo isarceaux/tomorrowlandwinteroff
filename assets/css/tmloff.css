@@ -64,8 +64,7 @@
     float: left;
     margin-left: 3%;
     margin-top: 3%;
-    background-color: rgba(77, 139, 174);
-    opacity: 0.75;
+    background-color: rgba(77, 139, 174, 0.5);
 }
 
 #tmloff_artists>ul>li>a {
