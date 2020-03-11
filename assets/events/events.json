@@ -1,245 +1,254 @@
 [
   {
     "date": "saturday_14",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "datetime": "12h-14h",
+    "venue": "Chantebise",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Mr Plouz",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
     "date": "saturday_14",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "datetime": "13h-15h",
+    "venue": "Signal 2108",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "Tech House",
+    "artists": "Max G",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
     "date": "saturday_14",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "datetime": "13h-15h",
+    "venue": "Signal 2108",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Tyron Taz",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "saturday_14",
+    "datetime": "14h-15h30",
+    "venue": "Chantebise",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Mateo Roda",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "saturday_14",
+    "datetime": "15h30-17h",
+    "venue": "Chantebise",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "Tech House",
+    "artists": "Thomas M",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "saturday_14",
+    "datetime": "21h-22h30",
+    "venue": "Zoo Bar",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Mateo Roda",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "saturday_14",
+    "datetime": "22h30-00h",
+    "venue": "Zoo Bar",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Tyron Taz",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "saturday_14",
+    "datetime": "00h-1h40",
+    "venue": "Zoo Bar",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "Tech House",
+    "artists": "FGNL",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
     "date": "sunday_15",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "datetime": "10h-11h",
+    "venue": "Signal 2108",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Mike Aries",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
     "date": "sunday_15",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "datetime": "11h-13h",
+    "venue": "Signal 2108",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "DJ Snow",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
     "date": "sunday_15",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "datetime": "12h-14h",
+    "venue": "Chantebise",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "Tech House",
+    "artists": "Thomas M",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "sunday_15",
+    "datetime": "13h-15h",
+    "venue": "Signal 2108",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Max G",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "sunday_15",
+    "datetime": "14h-15h30",
+    "venue": "Chantebise",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Tyron Taz",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "sunday_15",
+    "datetime": "15h-17h",
+    "venue": "Signal 2108",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Stéphane Dos Santos",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "sunday_15",
+    "datetime": "15h30-17h",
+    "venue": "Chantebise",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Tak",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "sunday_15",
+    "datetime": "21h-22h30",
+    "venue": "Zoo Bar",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "Melodic Techno",
+    "artists": "Loic Lac",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "sunday_15",
+    "datetime": "22h30-00h",
+    "venue": "Zoo Bar",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Polaar",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "sunday_15",
+    "datetime": "00h-1h40",
+    "venue": "Zoo Bar",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Tak",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
     "date": "monday_16",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "datetime": "11h-13h",
+    "venue": "Signal 2108",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Mike Aries",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
     "date": "monday_16",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "datetime": "12h-14h",
+    "venue": "Chantebise",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "Tech House",
+    "artists": "Bassner",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
     "date": "monday_16",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "datetime": "13h-15h",
+    "venue": "Signal 2108",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Tyron Taz",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
-    "date": "tuesday_17",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "date": "monday_16",
+    "datetime": "14h-15h30",
+    "venue": "Chantebise",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Lixon x Alex L",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
-    "date": "tuesday_17",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "date": "monday_16",
+    "datetime": "15h-17h",
+    "venue": "Signal 2108",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "Trance",
+    "artists": "AnionX",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
-    "date": "tuesday_17",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "date": "monday_16",
+    "datetime": "15h30-17h",
+    "venue": "Chantebise",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "Melodic Techno",
+    "artists": "Loic Lac",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
-    "date": "wednesday_18",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "date": "monday_16",
+    "datetime": "18h-2h",
+    "venue": "Smithys",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "EDM",
+    "artists": "DJ Licious",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
-    "date": "wednesday_18",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "date": "monday_16",
+    "datetime": "21h-22h30",
+    "venue": "Zoo Bar",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "Tech House",
+    "artists": "Bassner",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
-    "date": "wednesday_18",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "date": "monday_16",
+    "datetime": "22h30-00h",
+    "venue": "Zoo Bar",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "Tech House",
+    "artists": "Thomas M",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
-    "date": "thursday_19",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
-  },
-  {
-    "date": "thursday_19",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
-  },
-  {
-    "date": "thursday_19",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
-  },
-  {
-    "date": "friday_20",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
-  },
-  {
-    "date": "friday_20",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
-  },
-  {
-    "date": "friday_20",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
-  },
-  {
-    "date": "saturday_21",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
-  },
-  {
-    "date": "saturday_21",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
-  },
-  {
-    "date": "saturday_21",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
-  },
-  {
-    "date": "sunday_21",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
-  },
-  {
-    "date": "sunday_21",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
-  },
-  {
-    "date": "sunday_21",
-    "datetime": "TBD",
-    "venue": "TBD",
-    "venue_link": "#",
-    "style": "TBD",
-    "artists": "TBD",
-    "artists_link": "#"
+    "date": "monday_16",
+    "datetime": "00h-1h40",
+    "venue": "Zoo Bar",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "tba",
+    "artists": "Tak",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
   }
 ]
