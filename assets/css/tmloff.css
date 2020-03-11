@@ -56,7 +56,7 @@
 
 
 
-#tmloff_artists>ul {
+#tmloff_artists>ul,#tmloff_events>*>ul {
     border-radius: 1em;
     border: 1px solid white;
     width: 29%;
@@ -64,6 +64,8 @@
     float: left;
     margin-left: 3%;
     margin-top: 3%;
+    background-color: rgba(77, 139, 174);
+    opacity: 0.75;
 }
 
 #tmloff_artists>ul>li>a {
@@ -79,4 +81,16 @@
 .tmloff_artists_name {
     text-transform: uppercase;
     font-weight: bold;
+}
+
+#tmloff_events>h2 {
+    color: #000; /* Fallback for older browsers */
+    color: rgba(77, 139, 174);
+    width: 100%;
+    float: left;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-size: 3.35em;
+    font-weight: 900;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }

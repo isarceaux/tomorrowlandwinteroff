@@ -1,0 +1,74 @@
+[
+  {
+    "date": "sunday_15",
+    "datetime": "14h-17h",
+    "venue": "Chantebrise",
+    "venue_link": "#",
+    "style": "Tech house - EDM",
+    "artists": "DJ Licious",
+    "artists_link": "#"
+  },
+  {
+    "date": "sunday_15",
+    "datetime": "14h-17h",
+    "venue": "Sporting",
+    "venue_link": "#",
+    "style": "Minimal",
+    "artists": "Cilk",
+    "artists_link": "#"
+  },
+  {
+    "date": "sunday_15",
+    "datetime": "14h-17h",
+    "venue": "Chantebrise",
+    "venue_link": "#",
+    "style": "Microhouse",
+    "artists": "Patrice Baumel",
+    "artists_link": "#"
+  },
+  {
+    "date": "sunday_15",
+    "datetime": "14h-17h",
+    "venue": "Chantebrise",
+    "venue_link": "#",
+    "style": "Tech house - EDM",
+    "artists": "PaulK",
+    "artists_link": "#"
+  },
+  {
+    "date": "monday_16",
+    "datetime": "14h-17h",
+    "venue": "Les caves",
+    "venue_link": "#",
+    "style": "Tech house - EDM",
+    "artists": "DJ Licious",
+    "artists_link": "#"
+  },
+  {
+    "date": "monday_16",
+    "datetime": "14h-17h",
+    "venue": "Sporting",
+    "venue_link": "#",
+    "style": "Minimal",
+    "artists": "Cilk",
+    "artists_link": "#"
+  },
+  {
+    "date": "monday_16",
+    "datetime": "14h-17h",
+    "venue": "Chantebrise",
+    "venue_link": "#",
+    "style": "Microhouse",
+    "artists": "Patrice Baumel",
+    "artists_link": "#"
+  },
+  {
+    "date": "friday_20",
+    "datetime": "14h-17h",
+    "venue": "Les caves",
+    "venue_link": "#",
+    "style": "Tech house - EDM",
+    "artists": "PaulK",
+    "artists_link": "#"
+  }
+]
