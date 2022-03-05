@@ -47,24 +47,7 @@
                 <div>
                     <div id="tmloff_events">
                         <h1>Agenda</h1>
-                        <h2>Saturday 14<sup>th</sup></h2>
-                        <div id="tmloff_events_saturday_14"></div>
-                        <h2>Sunday 15<sup>th</sup></h2>
-                        <div id="tmloff_events_sunday_15"></div>
-                        <h2>Monday 16<sup>th</sup></h2>
-                        <div id="tmloff_events_monday_16"></div>
-                        <h2>Tuesday 17<sup>th</sup></h2>
-                        <div id="tmloff_events_tuesday_17"></div>
-                        <h2>Wednesday 18<sup>th</sup></h2>
-                        <div id="tmloff_events_wednesday_18"></div>
-                        <h2>Thursday 19<sup>th</sup></h2>
-                        <div id="tmloff_events_thursday_19"></div>
-                        <h2>Friday 20<sup>th</sup></h2>
-                        <div id="tmloff_events_friday_20"></div>
-                        <h2>Saturday 21<sup>th</sup></h2>
-                        <div id="tmloff_events_saturday_21"></div>
-                        <h2>Sunday 22<sup>th</sup></h2>
-                        <div id="tmloff_events_sunday_22"></div>
+                       <p>Cancelled</p>
                     </div>
                     <div style="float: left; width: 100%; min-height: 10em; margin-top: 1em;">
                         <nav>
@@ -101,7 +84,7 @@
                         events[event.date] = [];
                     }
                     
-                  //  $("toto".toString()).appendTo("#tmloff_events_" + event.date);
+                   $("toto".toString()).appendTo("#tmloff_events_" + event.date);
                   $( "#tmloff_events_" + event.date ).append( "<ul> \
                         <li>" + event.datetime + "</li> \
                         <li><i class=\"fas fa-map-marker-alt\"></i> <a href=\" " + event.venue_link + " \">" + event.venue + "</a></li> \
@@ -112,25 +95,25 @@
 
                
 
-               // $(events.join( "" )).appendTo( "#tmloff_events_sunday" );
+               $(events.join( "" )).appendTo( "#tmloff_events_sunday" );
 
-                // $('#tmloff_artists>ul').each(function( index ) {
-                //     var url = 'assets/artists/' + $(this).find('.tmloff_artists_name').text().replace(/[^a-zA-Z]/g, "").toLowerCase() + '.jpg';
+                $('#tmloff_artists>ul').each(function( index ) {
+                    var url = 'assets/artists/' + $(this).find('.tmloff_artists_name').text().replace(/[^a-zA-Z]/g, "").toLowerCase() + '.jpg';
                     
-                //     var that = this;
-                //     $.ajax({
-                //         url: url,
-                //         type:'HEAD',
-                //         error: function()
-                //         {
-                //             console.log('Photo not found : ' + url)
-                //         },
-                //         success: function()
-                //         {
-                //             $(that).find('.tmloff_artists_photo').attr('src',url);
-                //         }
-                //     });
-                // })
+                    var that = this;
+                    $.ajax({
+                        url: url,
+                        type:'HEAD',
+                        error: function()
+                        {
+                            console.log('Photo not found : ' + url)
+                        },
+                        success: function()
+                        {
+                            $(that).find('.tmloff_artists_photo').attr('src',url);
+                        }
+                    });
+                })
 
             });
         });

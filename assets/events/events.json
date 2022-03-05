@@ -72,6 +72,15 @@
     "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
+    "date": "saturday_14",
+    "datetime": "00-5h30",
+    "venue": "Igloo Club",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "Generalist",
+    "artists": "Max G",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
     "date": "sunday_15",
     "datetime": "10h-11h",
     "venue": "Signal 2108",
@@ -103,7 +112,7 @@
     "datetime": "13h-15h",
     "venue": "Signal 2108",
     "venue_link": "http://magicalwinteroff.com/map.html",
-    "style": "tba",
+    "style": "Generalist",
     "artists": "Max G",
     "artists_link": "http://magicalwinteroff.com/artists.html"
   },
@@ -159,6 +168,15 @@
     "venue_link": "http://magicalwinteroff.com/map.html",
     "style": "tba",
     "artists": "Tak",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "sunday_15",
+    "datetime": "00-5h30",
+    "venue": "Igloo Club",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "EDM",
+    "artists": "Fred Pellichero",
     "artists_link": "http://magicalwinteroff.com/artists.html"
   },
   {
@@ -249,6 +267,15 @@
     "venue_link": "http://magicalwinteroff.com/map.html",
     "style": "tba",
     "artists": "Tak",
+    "artists_link": "http://magicalwinteroff.com/artists.html"
+  },
+  {
+    "date": "monday_16",
+    "datetime": "00-5h30",
+    "venue": "Igloo Club",
+    "venue_link": "http://magicalwinteroff.com/map.html",
+    "style": "EDM",
+    "artists": "Fred Pellichero",
     "artists_link": "http://magicalwinteroff.com/artists.html"
   }
 ]

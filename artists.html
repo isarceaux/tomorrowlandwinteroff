@@ -117,23 +117,23 @@
 
                 $(artists.join( "" )).appendTo( "#tmloff_artists" );
 
-                // $('#tmloff_artists>ul').each(function( index ) {
-                //     var url = 'assets/artists/' + $(this).find('.tmloff_artists_name').text().replace(/[^a-zA-Z]/g, "").toLowerCase() + '.jpg';
+                $('#tmloff_artists>ul').each(function( index ) {
+                    var url = 'assets/artists/' + $(this).find('.tmloff_artists_name').text().replace(/[^a-zA-Z]/g, "").toLowerCase() + '.jpg';
                     
-                //     var that = this;
-                //     $.ajax({
-                //         url: url,
-                //         type:'HEAD',
-                //         error: function()
-                //         {
-                //             console.log('Photo not found : ' + url)
-                //         },
-                //         success: function()
-                //         {
-                //             $(that).find('.tmloff_artists_photo').attr('src',url);
-                //         }
-                //     });
-                // })
+                    var that = this;
+                    $.ajax({
+                        url: url,
+                        type:'HEAD',
+                        error: function()
+                        {
+                            console.log('Photo not found : ' + url)
+                        },
+                        success: function()
+                        {
+                            $(that).find('.tmloff_artists_photo').attr('src',url);
+                        }
+                    });
+                })
 
             });
         });
