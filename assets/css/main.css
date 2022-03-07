@@ -45,6 +45,16 @@ blockquote:before, blockquote:after, q:before, q:after {
   content: none;
 }
 
+.conteneur {
+  display: flex;
+  justify-content: center;
+}
+
+.no_underline {
+  text-decoration: none !important;
+  border-style : none;
+}
+
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -116,6 +126,7 @@ a {
 }
 a:hover {
   border-color: transparent;
+  text-decoration: none;
 }
 
 /* Icon */
